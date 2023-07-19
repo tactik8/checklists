@@ -12,7 +12,7 @@ Checklist of activities ot create a new python project, store it in github and p
 ## Setup
 ### in repl.it
 - Create new project in repl.it
-- Copy files from /new_python_project in main directory of repl.it
+- Copy files from /new_python_project in main directory of repl.it (https://github.com/tactik8/checklists/tree/main/new_python_project)
 - Update areas with < > in setup.py
 - Update readme.md
 - Create .gitignore file in main directory on repl.it with following content:

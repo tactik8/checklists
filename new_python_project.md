@@ -1,7 +1,7 @@
 
 # Checklist: New Python Project
-Date created: 2023-07-19
-Date updated: 2023-07-19
+- Date created: 2023-07-19
+- Date updated: 2023-07-19
 
 
 # Overview

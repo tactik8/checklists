@@ -9,12 +9,12 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="kraken-schema-org",
-    version="0.0.11",
-    description="Kraken schema.org",
+    name="<name of pypi library>",
+    version="0.0.1",
+    description="<description of library>",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/tactik8/kraken_datatype2",
+    url="<url of github>",
     author="Tactik8",
     author_email="info@tactik8.com",
     license="MIT",
@@ -23,9 +23,9 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.8",
     ],
-    packages=["kraken_schema_org"],
+    packages=["<directory of the library>"],
     include_package_data=True,
-    package_dir={"": "kraken_schema_org"},
-    install_requires=['kraken-datatype'],
+    package_dir={"": "<directory of library>"},
+    install_requires=['<list of required libraries>'],
     
 )

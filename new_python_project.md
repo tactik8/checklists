@@ -23,7 +23,7 @@ Checklist of activities ot create a new python project, store it in github and p
 
 ### in github
 #### if creating a pypl library:
-- create action from temaplte "Publish Python Package"
+- create action from template "Publish Python Package"
 - create new security token in pypi
 - add security token as environment variable under settings - secrets and variables - actions, name PYPI_API_TOKEN
 

@@ -25,7 +25,7 @@ setup(
     ],
     packages=["<directory of the library>"],
     include_package_data=True,
-    package_dir={"": "<directory of library>"},
+    package_dir={"": "<directory of library>/"},
     install_requires=['<list of required libraries>'],
     
 )
